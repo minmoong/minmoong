@@ -16,10 +16,14 @@ Here are some ideas to get you started:
   <div align=center>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminmoong)](https://hits.seeyoufarm.com)
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minmoong)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
   
+  <div align=center>
+  
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minmoong)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
   
   
 ### 활동하는곳!!
