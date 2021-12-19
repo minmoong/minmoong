@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <a href="https://www.youtube.com/channel/UCNkdgxDSgQMgUWashOG6GQg" target="_blank"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 
-<a href="https://www.facebook.com/profile.php?id=100056053027942" target="_blank"><img src="https://img.shields.io/badge/Facebook-1b74e4?style=flat-square&logo=Facebook&logoColor=red"/></a>
+<a href="https://www.facebook.com/profile.php?id=100056053027942" target="_blank"><img src="https://img.shields.io/badge/Facebook-1b74e4?style=flat-square&logo=Facebook&logoColor=white"/></a>
