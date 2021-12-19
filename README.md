@@ -27,5 +27,6 @@ Here are some ideas to get you started:
   
   <div align=center>
   ### 활동하는곳!!
+  
 <a href="https://www.youtube.com/channel/UCNkdgxDSgQMgUWashOG6GQg" target="_blank"><img src="https://img.shields.io/badge/유튭-ff0000?style=flat-square&logo=YouTube&logoColor=white"/></a> <a href="https://www.facebook.com/profile.php?id=100056053027942" target="_blank"><img src="https://img.shields.io/badge/페북-1b74e4?style=flat-square&logo=Facebook&logoColor=white"/></a> <img src="https://img.shields.io/badge/디코-6f84d2?style=flat-square&logo=Discord&logoColor=white"/>
   </div>
