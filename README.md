@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
   <div align=center>
   
-  # 제 프로필에 들어오신 당신! 어떻게 들어오게 됐는지는 모르겠지만 정말 반가워요!! 덕분에 방문자 수가 1 더 올랐네요. 우리가 더 친해졌으면 좋겠어요.
+  ## 제 프로필에 들어오신 당신! 어떻게 들어오게 됐는지는 모르겠지만 정말 반가워요!! 덕분에 방문자 수가 1 더 올랐네요. 우리가 더 친해졌으면 좋겠어요.
   ### 내 프로필 방문자 수
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminmoong)](https://hits.seeyoufarm.com)
   
