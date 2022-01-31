@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-  ### 레이팅
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minmoong)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
