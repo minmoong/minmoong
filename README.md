@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-  ### 우리가 더 친해졌으면 좋겠어요. 😚
+  ### 팔로우 ㄱㄱ!!! 😚
   
 </div>
 
