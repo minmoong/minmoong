@@ -1,3 +1,3 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=minmoong&fontSize=90&animation=fadeIn&fontAlignY=38&desc=HI%20THERE!%20💖&descAlignY=51&descAlign=62)
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center" style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">🛠 Tech Stack 🛠</h3>
