@@ -4,18 +4,6 @@
 
 </div>
 
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=minmoong&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  [![minmoong's github stats](https://github-readme-stats.vercel.app/api?username=minmoong)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![minmoong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minmoong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minmoong)
-  
-</div>
-
-<br>
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -54,3 +42,15 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2Fminmoong&count_bg=%236789FD&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
+
+<br>
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=minmoong&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  [![minmoong's github stats](https://github-readme-stats.vercel.app/api?username=minmoong)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![minmoong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minmoong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minmoong)
+  
+</div>
