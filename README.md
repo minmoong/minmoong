@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=minmoong&fontSize=90&animation=fadeIn&fontAlignY=38&desc=HI%20THERE!%20💖&descAlignY=51&descAlign=62)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=minmoong!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -16,4 +15,11 @@
   <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
-</div>
+</p>
+
+<br>
+
+<h3 align="center">🍭 SNS 🍭</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white"/>
+</p>
