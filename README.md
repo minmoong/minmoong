@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=minmoong&fontAlignY=40&color=gradient&desc=난%20최고%20되려%20왔어%20니%20처음처럼%20워!)
+  ![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=minmoong&fontAlignY=40&color=gradient)
 
 </div>
 
