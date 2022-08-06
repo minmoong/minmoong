@@ -126,3 +126,15 @@ if (a === 1)
   예시: PascalCase, InterfaceUser, TypeData
 #### 2.3 스네이크 케이스
   예시: snake_case, get_number, API_KEY
+
+<br />
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=minmoong&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  [![minmoong's github stats](https://github-readme-stats.vercel.app/api?username=minmoong)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![minmoong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minmoong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minmoong)
+  
+</div>
