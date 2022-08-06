@@ -1,56 +1,49 @@
-<div align="center">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=My%20Story&fontAlignY=40&color=gradient)
 
-  ![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=minmoong&fontAlignY=40&color=gradient)
+## 펜티엄에 4기가 램, 그래도 할 건 다 하는 개발자!
+![캡처](https://user-images.githubusercontent.com/62737839/183251007-b5174547-b049-4873-84c2-33dd7067a1c5.PNG)  
+> ### 💻 **제 메인 데스크탑 사양입니다.** 💻
+> #### 펜티엄 CPU 에 4GB 짜리 램으로 시작한 코딩 인생! 이 파일에 전부 담아봤습니다.
 
-</div>
+<br />
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=Tauri&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/>
-</p>
+## 반갑습니다! 👋
+**4차 산업 혁명 트렌드**에 맞는 애플리케이션 구축과 **e비즈니스 모델 서비스** 기획을 하고 있는 16살 풀스택 웹앱 개발자 민뭉입니다.
 
-<br>
+<br />
 
-<h3 align="center">🍭 SNS 🍭</h3>
-<p align="center">
-  <a href="https://www.instagram.com/hextroner07/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100056053027942" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UCNkdgxDSgQMgUWashOG6GQg" target="_blank"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
-</p>
+## 사용하는 프레임워크&언어
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
+<br />
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+<br />
+![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=Tauri&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white)
 
-<br>
+<br />
 
-<h3 align="center">✔ Hits ✔</h3>
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2Fminmoong&count_bg=%236789FD&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
+## 진행한 프로젝트
+진행한 모든 프로젝트의 코드는 [**깃허브**](https://github.com/minmoong?tab=repositories)에 업로드되어 있습니다.
+- [**보티모션**](https://votemotion.kr) **(종료된 서비스; 2022/01/24 ~ 2022/07/22)**  
+  사소하고 흥미로운 논쟁을 자유롭게 투표 형식으로 지원하는 커뮤니티 서비스 입니다.
+  리액트 프레임워크를 사용하여 만들었으며 저의 첫 번째 프로젝트입니다!
+  * Cafe24 프론트엔드 호스팅
+  * Amazon Lightsail 백엔드 호스팅
+  * 👑 Shout out to [**윈터**](https://github.com/Lone1y-Mw)!
 
-<br>
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=minmoong&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  [![minmoong's github stats](https://github-readme-stats.vercel.app/api?username=minmoong)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![minmoong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minmoong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minmoong)
-  
-</div>
+- [**메밀**](https://maemil.kr) **(종료된 서비스; 0000/00/00 ~ 0000/00/00)**
+- [**스벨투두**](https://full-stack-web-development-ashen.vercel.app)
+- [**무비디비**](https://moovidb-minmoong.vercel.app)
