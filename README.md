@@ -40,7 +40,8 @@
 진행한 모든 프로젝트의 코드는 [**깃허브**](https://github.com/minmoong?tab=repositories)에 업로드되어 있습니다.
 - [**보티모션**](https://votemotion.kr) **(종료된 서비스; 2022/01/24 ~ 2022/07/22)**  
   사소하고 흥미로운 논쟁을 자유롭게 투표 형식으로 지원하는 커뮤니티 서비스 입니다.
-  리액트 프레임워크를 사용하여 만들었으며 저의 첫 번째 프로젝트입니다!
+  * 내 첫 번째 프로젝트
+  * 리액트 프레임워크
   * Cafe24 프론트엔드 호스팅
   * Amazon Lightsail 백엔드 호스팅
   * 👑 Shout out to [**윈터**](https://github.com/Lone1y-Mw)!
