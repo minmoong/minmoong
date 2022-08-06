@@ -37,18 +37,33 @@
 <br />
 
 ## 진행한 프로젝트
-진행한 모든 프로젝트의 코드는 [**깃허브**](https://github.com/minmoong?tab=repositories)에 업로드되어 있습니다.
-- [**보티모션**](https://votemotion.kr) **(종료된 서비스; 2022/01/24 ~ 2022/07/22)**  
+__진행한 모든 프로젝트의 코드는 [**깃허브**](https://github.com/minmoong?tab=repositories)에 업로드되어 있습니다.__
+- [**보티모션**](https://votemotion.kr) **(❌종료된 서비스❌; 2022/01/24 ~ 2022/07/22)**  
   사소하고 흥미로운 논쟁을 자유롭게 투표 형식으로 지원하는 커뮤니티 서비스 입니다.
   * 내 첫 번째 프로젝트
-  * 리액트 프레임워크
+  * **리액트** 프레임워크
   * Cafe24 프론트엔드 호스팅
   * Amazon Lightsail 백엔드 호스팅
   * 👑 Shout out to [**윈터**](https://github.com/Lone1y-Mw)!
 
-- [**메밀**](https://maemil.kr) **(종료된 서비스; 0000/00/00 ~ 0000/00/00)**
-- [**스벨투두**](https://full-stack-web-development-ashen.vercel.app)
-- [**무비디비**](https://moovidb-minmoong.vercel.app)
+- [**메밀**](https://maemil.kr) **(❌종료된 서비스❌; 2022/05/29 ~ 2022/06/09)**  
+  학교에서 동아리 활동으로 진행한 학교 인트라넷 프로젝트 입니다. 저희 학교의 **TODO LIST, 급식 정보, 시간표, 학사 일정** 정보를 열람할 수 있습니다. 학교 학생회의 공약(점심시간마다 라디오 방송&사연 방송)과 연결시켜 더욱 강력한 커뮤니티를 구축하기 위해 시도하였고 서비스 론칭을 위해 포스터도 제작하고 주문하였지만 학교측의 서비스 반대로 인해 개발을 중단하게 되었습니다. 😥  
+  **그래도 멋진 도전이었어요!**
+  * **스벨트** 프레임워크
+  * 매일 아침 7시마다 당일 급식, 시간표 푸시 알림 전송
+  * [리포지토리 바로가기](https://github.com/Lone1y-Mw/maemil-client)
+  * 👑 Shout out to [**윈터**](https://github.com/Lone1y-Mw), 동아리 친구들!
+- [**스벨투두**](https://full-stack-web-development-ashen.vercel.app) **(✅진행중인 서비스✅; 2022/08/06 ~ )**  
+  스벨트킷(SvelteKit)연습을 위해 제작한 간단한 TODO LIST 웹앱 입니다!  
+  여러가지 정말 좋은 시스템들을 많이 알 수 있었던 프로젝트였어요.
+  * 스벨트킷 + 타입스크립트 사용; 완전 좋음!!
+  * Gitpod 사용; 완전 편함!!
+  * Vercel 배포; 깃허브에 올리기만 하면 자동으로 배포?? 😲
+  * Prisma + PostgreSQL 사용; Prisma 너무 깔끔함..!
+- [**무비디비**](https://moovidb-minmoong.vercel.app) **(✅진행중인 서비스✅; 2022/08/06 ~ )**  
+  그럴듯한 영화 추천 및 검색 서비스!  
+  * Ripple 버튼의 중요성을 깨달았다..
+  * TMDB API 사용
 
 <br />
 
