@@ -140,3 +140,7 @@ if (a === 1)
   [![minmoong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minmoong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/minmoong)
   
 </div>
+
+<div align="center">
+  제 스타일이 마음에 드신다면 팔로우를 잊지말고 꼭..! 해주세요!
+</div>
