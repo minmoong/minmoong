@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=My%20Coding%20Story&fontAlignY=40&color=gradient)
 
-## 펜티엄에 4기가 램, 그래도 할 건 다 하는 개발자!
+## 펜티엄에 4기가 램, 그래도 할 건 다 하는 개발자! ✨
 ![캡처](https://user-images.githubusercontent.com/62737839/183251007-b5174547-b049-4873-84c2-33dd7067a1c5.PNG)  
 > ### 💻 **제 메인 데스크탑 사양입니다.** 💻
 > #### 펜티엄 CPU 에 4GB 짜리 램으로 시작한 코딩 인생! 이 파일에 전부 담아봤습니다.
@@ -33,6 +33,11 @@
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=Tauri&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white)
+
+<br />
+
+## 코딩 스타일
+
 
 <br />
 
