@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=My%20Story&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=My%20Coding%20Story&fontAlignY=40&color=gradient)
 
 ## 펜티엄에 4기가 램, 그래도 할 건 다 하는 개발자!
 ![캡처](https://user-images.githubusercontent.com/62737839/183251007-b5174547-b049-4873-84c2-33dd7067a1c5.PNG)  
