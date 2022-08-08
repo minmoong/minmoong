@@ -55,7 +55,7 @@ __진행한 모든 프로젝트의 코드는 [**깃허브**](https://github.com/
   * 매일 아침 7시마다 당일 급식, 시간표 푸시 알림 전송
   * [리포지토리 바로가기](https://github.com/Lone1y-Mw/maemil-client)
   * 👑 Shout out to [**윈터**](https://github.com/Lone1y-Mw), 동아리 친구들!
-- [**스벨투두**](https://full-stack-web-development-ashen.vercel.app) **(✅진행중인 서비스✅; 2022/08/06 ~ )**  
+- [**스벨투두**](https://todo-minmoong.vercel.app/) **(✅진행중인 서비스✅; 2022/08/06 ~ )**  
   스벨트킷(SvelteKit)연습을 위해 제작한 간단한 TODO LIST 웹앱 입니다!  
   여러가지 정말 좋은 시스템들을 많이 알 수 있었던 프로젝트였어요.
   * 스벨트킷 + 타입스크립트 사용; 완전 좋음!!
