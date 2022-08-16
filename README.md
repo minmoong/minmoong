@@ -141,8 +141,8 @@ if (a === 1)
   
 </div>
 
-<div align="center">
+<!-- <div align="center">
   
   **제 스타일이 마음에 드신다면 팔로우 부탁드려요 !**
   
-</div>
+</div> -->
