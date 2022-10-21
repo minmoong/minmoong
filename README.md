@@ -17,6 +17,7 @@
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-51bff0?style=for-the-badge&logo=Flutter&logoColor=white)
 <br />
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white)
