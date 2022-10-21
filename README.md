@@ -1,5 +1,13 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=MINMOONG&fontAlignY=40&color=gradient)
 
+<!-- ## 펜티엄에 4기가 램, 그래도 할 건 다 하는 개발자! 🎉
+![캡처](https://user-images.githubusercontent.com/62737839/183251007-b5174547-b049-4873-84c2-33dd7067a1c5.PNG)  
+> ### 💻 **저의 메인 데스크탑 사양입니다.** 💻
+> #### 펜티엄 CPU에 4GB짜리 램으로 시작한 코딩 인생! 이 파일에 전부 담아봤습니다.
+> ###### _(그래도 언젠간 나도 맥북을..!)_
+
+<br /> -->
+
 # 반갑습니다! 👋
 ### 4차 산업 혁명 트렌드에 맞는 애플리케이션 구축과 e비즈니스 모델 서비스 기획을 하고 있는 16살 풀스택 웹앱 개발자 민뭉입니다.
 
@@ -66,7 +74,7 @@ __진행한 모든 프로젝트의 코드는 [**깃허브**](https://github.com/
 
 <br />
 
-## 코딩 스타일 👨‍💻
+<!-- ## 코딩 스타일 👨‍💻
 ### 1. 괄호의 위치
 #### 1.1 BSD 스타일
 ```typescript
@@ -126,7 +134,7 @@ if (a === 1)
 #### 2.3 스네이크 케이스
   예시: snake_case, get_number, API_KEY
 
-<br />
+<br /> -->
 
 <div align="center">
   
