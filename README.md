@@ -68,7 +68,7 @@ __진행한 모든 프로젝트의 코드는 [**깃허브**](https://github.com/
   * Ripple 버튼의 중요성을 깨달았다..
   * TMDB API 사용
 - <img src="https://user-images.githubusercontent.com/62737839/185923505-b9393b09-0e94-42fa-9c38-5b75f121f4e9.png" width="50px" height="50px" /><br />
-  [**N2N 월드**](https://end-to-end-world.vercel.app) **(✅진행중인 서비스✅; 2022/08/22 ~ )**  
+  [**E2E 월드**](https://end-to-end-world.vercel.app) **(✅진행중인 서비스✅; 2022/08/22 ~ )**  
   실시간 지역별 끝말잇기 점수 대결!
   * SvelteKit 사용
   * 우리말샘 API 사용
