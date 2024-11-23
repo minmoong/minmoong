@@ -2,7 +2,8 @@
 - Windows system programming (23.11.18 ~ 24.01.19)
 - Windows reverse engineering (24.01.19 ~ 24.08.02)
 - Pwnable (24.08.02 ~ 24.09.06)
-- 👉 **Idling...** (24.09.06 ~ )
+- Idling... (24.09.06 ~ 24.11.23)
+- 👉 **Developing something...** (24.11.23 ~ )
 
 ## I'm interested in...
 - Windows API
